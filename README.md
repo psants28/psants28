@@ -62,7 +62,7 @@
     <p align="center">
         ○
         <br>
-        growth is a quiet discipline.
+      「 growth is a quiet discipline 」
     </p>
 </samp>
 
