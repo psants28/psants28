@@ -31,7 +31,7 @@
 
 <!-- Details Section -->
 <details align="center">
-  <summary><samp>More</samp></summary>
+  <summary><samp>more</samp></summary>
   <br>
 
   <p align="left">
@@ -46,7 +46,7 @@
   </p>
 
   <p align="left">
-    <strong> > say hi</strong>
+    <strong> > get in touch </strong>
   </p>
   
   <p align="left">
