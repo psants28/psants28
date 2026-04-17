@@ -60,8 +60,6 @@
 <!-- Footer -->
 <samp>
     <p align="center">
-        ○
-        <br>
       「 growth is a quiet discipline 」
     </p>
 </samp>
