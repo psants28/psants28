@@ -41,7 +41,7 @@
     • <b> job: </b> currently working at @cfaz.net.<br>
     • <b> education: </b> bachelor of information systems.<br>
     • <b> currently studying: </b> linux, and cybersecurity foundation.<br>
-    • <b> currently reading: </b> "introdução ao pentest", from daniel moreno<br>
+    • <b> currently reading: </b> Sapiens, a brief history of humanity <br>
     • <b> experience: </b> 3 years of professional experience as a software developer.
   </p>
 
