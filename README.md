@@ -50,8 +50,12 @@
   </p>
   
   <p align="left">
-      <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/pedro-sants/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=psants.dev@proton.me">
       <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
   </p>
 </details>
 
