@@ -57,9 +57,9 @@
       <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
     </a>
   </p>
+  
+  <img width="312" height="228" alt="coding-tux" src="https://github.com/user-attachments/assets/dc034b27-c83a-41a3-b7cd-4304f9ceb5fd" />
 </details>
-
-<br>
 
 <!-- Footer -->
 <samp>
