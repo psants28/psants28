@@ -55,16 +55,10 @@
       <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
     </a>
   </p>
-  
-  <img width="312" height="228" alt="coding-tux" src="https://github.com/user-attachments/assets/dc034b27-c83a-41a3-b7cd-4304f9ceb5fd" />
+
 </details>
 
-<!-- Footer 
-<samp>
-    <p align="center">
-      「 growth is a quiet discipline 」
-    </p>
-</samp>
--->
-
-
+<!-- Footer -->
+<div align="center">
+  <img width="312" height="228" alt="coding-tux" src="https://github.com/user-attachments/assets/dc034b27-c83a-41a3-b7cd-4304f9ceb5fd" />
+</div>
