@@ -59,11 +59,12 @@
   <img width="312" height="228" alt="coding-tux" src="https://github.com/user-attachments/assets/dc034b27-c83a-41a3-b7cd-4304f9ceb5fd" />
 </details>
 
-<!-- Footer -->
+<!-- Footer 
 <samp>
     <p align="center">
       「 growth is a quiet discipline 」
     </p>
 </samp>
+-->
 
 
